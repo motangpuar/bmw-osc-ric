@@ -6,3 +6,4 @@
 *.lock
 .tox
 docs/_build/
+bin/linux-386/
